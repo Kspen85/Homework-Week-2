@@ -6,7 +6,7 @@ html {
     outline-style: outset;
     outline-color: #63686b;
     padding: 5px 5px 5px 10px;
-  } <!--outlines the whole page with 5px of spacing-->
+  } 
   
   h1 {
     text-align: center;
@@ -22,7 +22,7 @@ html {
     font-weight: bold;
     font-style:italic;
     color: white
-  } <!--id selector-->
+  } 
  
   div, ol {
    display: inline-block;
