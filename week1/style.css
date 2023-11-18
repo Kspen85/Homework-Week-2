@@ -37,11 +37,11 @@ html {
    list-style-position: inside;
   }*/
 
-  div.List {
+  .List {
     text-align: center;
   }
 
-  ol.Best {
+  .Best {
   display: inline-block;
   text-align: left;
 }
